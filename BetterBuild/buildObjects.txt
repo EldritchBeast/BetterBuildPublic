@@ -10218,6 +10218,13 @@
         "Name": "digiBush01",
         "Path": "zoneSLIMULATIONS/cellSlimulationReef_BigTree/Sector/Flora/digiBush01",
         "RemoveScripts": []
+      },
+      {
+        "ID": 896,
+        "RenderID": 173202349,
+        "Name": "decoFlowers01",
+        "Path": "zoneREEF/cellReef_SandTrap/Sector/Deco/decoFlowers01",
+        "RemoveScripts": []	
       }
     ]
   },
@@ -11230,13 +11237,6 @@
         "RenderID": 1680842538,
         "Name": "decoRock13",
         "Path": "zoneREEF/cellReef_FeralCanyon/Sector/Deco/decoRock13",
-        "RemoveScripts": []
-      },
-      {
-        "ID": 896,
-        "RenderID": 173202349,
-        "Name": "decoFlowers01",
-        "Path": "zoneREEF/cellReef_SandTrap/Sector/Deco/decoFlowers01",
         "RemoveScripts": []
       },
       {
